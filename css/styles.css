@@ -55,6 +55,18 @@ body {
     background-color: var(---bacground-color);
 }
 
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.hero {
+    text-align: center;
+    background: var(--accent-bacground-color);
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 .page-header a,
 .footer a,
 .portfolio a {
@@ -110,8 +122,8 @@ body {
 
 .site-nav .link {
     display: block;
-    padding-top: 34px;
-    padding-bottom: 34px;
+    padding-top: 32px;
+    padding-bottom: 32px;
     color: var(--title-text-color);
 
     font-weight: 500;
@@ -152,13 +164,6 @@ body {
 
 /* Hero */
 
-.hero {
-    text-align: center;
-    background: var(--accent-bacground-color);
-    padding-top: 200px;
-    padding-bottom: 200px;
-}
-
 .hero-title {
     width: 696px;
     margin: auto;
@@ -188,12 +193,6 @@ body {
 
 /* Sections */
 
-
-
-.section {
-    padding-top: 94px;
-    padding-bottom: 94px;
-}
 
 .section .title {
     margin-bottom: 50px;
